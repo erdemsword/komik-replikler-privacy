@@ -104,6 +104,7 @@
                 </p> <p>This policy is effective as of 2022-09-26</p> <p><strong>Contact Us</strong></p> <p>
                   If you have any questions or suggestions about my
                   Privacy Policy, do not hesitate to contact me at erdemkilic9734@gmail.com.
+                </p></p>
     </body>
     </html>
       
